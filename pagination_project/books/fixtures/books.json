@@ -1,0 +1,452 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "The Last Horizon",
+      "author": "Ava Monroe",
+      "published_year": 2001
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Shadows of Dawn",
+      "author": "Liam Carter",
+      "published_year": 1995
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "Echoes of Silence",
+      "author": "Maya Brooks",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "Whispers in the Wind",
+      "author": "Noah Bennett",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "title": "The Forgotten Path",
+      "author": "Isla Rivers",
+      "published_year": 1999
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "title": "Crimson Winter",
+      "author": "Ethan Hayes",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "title": "Tides of Memory",
+      "author": "Luna Martin",
+      "published_year": 2015
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "title": "Glass Kingdom",
+      "author": "Jack Sullivan",
+      "published_year": 2002
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "title": "The Star Map",
+      "author": "Zoe Palmer",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "title": "Veil of Secrets",
+      "author": "Mason Blake",
+      "published_year": 2008
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "title": "Fading Light",
+      "author": "Ella Summers",
+      "published_year": 2004
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "title": "The Dust Chronicles",
+      "author": "Leo Grant",
+      "published_year": 1998
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+      "title": "Iron Ember",
+      "author": "Chloe Mason",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+      "title": "Lost and Found",
+      "author": "Elijah Rhodes",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+      "title": "Blue Fire",
+      "author": "Grace Monroe",
+      "published_year": 2000
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+      "title": "Midnight Lantern",
+      "author": "James Holloway",
+      "published_year": 2005
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+      "title": "The Mirror Tree",
+      "author": "Harper Lane",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+      "title": "Stonebird",
+      "author": "Benjamin Holt",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+      "title": "Wild Ashes",
+      "author": "Olivia Banks",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+      "title": "Broken Compass",
+      "author": "Lucas Ford",
+      "published_year": 2016
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+      "title": "The Paper War",
+      "author": "Amelia Clarke",
+      "published_year": 2019
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 22,
+    "fields": {
+      "title": "Lantern Lake",
+      "author": "Henry Dalton",
+      "published_year": 2001
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 23,
+    "fields": {
+      "title": "The Archer’s Code",
+      "author": "Nora Steele",
+      "published_year": 1997
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 24,
+    "fields": {
+      "title": "Golden Thread",
+      "author": "Daniel Cross",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 25,
+    "fields": {
+      "title": "When We Were Stars",
+      "author": "Ella Reed",
+      "published_year": 2020
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 26,
+    "fields": {
+      "title": "Clockwork Forest",
+      "author": "Miles Everett",
+      "published_year": 1996
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 27,
+    "fields": {
+      "title": "The Cold Vein",
+      "author": "Sophie Lake",
+      "published_year": 2014
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 28,
+    "fields": {
+      "title": "Painted Skies",
+      "author": "Owen Hart",
+      "published_year": 2002
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 29,
+    "fields": {
+      "title": "Night Orchard",
+      "author": "Ruby Frost",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 30,
+    "fields": {
+      "title": "Silver Rain",
+      "author": "Nathan York",
+      "published_year": 2000
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 31,
+    "fields": {
+      "title": "The Hollow Sound",
+      "author": "Emma Blake",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 32,
+    "fields": {
+      "title": "Fragments of Gold",
+      "author": "Aiden Scott",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 33,
+    "fields": {
+      "title": "The Thirteenth Room",
+      "author": "Isabelle Snow",
+      "published_year": 1994
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 34,
+    "fields": {
+      "title": "Echo Harbor",
+      "author": "Julian Wells",
+      "published_year": 2005
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 35,
+    "fields": {
+      "title": "Burning Leaves",
+      "author": "Mila Dawson",
+      "published_year": 2017
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 36,
+    "fields": {
+      "title": "The Quiet Curse",
+      "author": "Grayson Lee",
+      "published_year": 2008
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 37,
+    "fields": {
+      "title": "Silverwood",
+      "author": "Stella Greene",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 38,
+    "fields": {
+      "title": "Beneath the Iron Moon",
+      "author": "Caleb Stone",
+      "published_year": 1999
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 39,
+    "fields": {
+      "title": "The Willow Pact",
+      "author": "Lily Harper",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 40,
+    "fields": {
+      "title": "Frostfire",
+      "author": "Evan Clarke",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 41,
+    "fields": {
+      "title": "Dancing Shadows",
+      "author": "Nina Fields",
+      "published_year": 2004
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 42,
+    "fields": {
+      "title": "The Painted Veil",
+      "author": "Jason Cole",
+      "published_year": 2001
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 43,
+    "fields": {
+      "title": "Moonlight Serenade",
+      "author": "Ella Harper",
+      "published_year": 2015
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 44,
+    "fields": {
+      "title": "The Last Ember",
+      "author": "Adam Grant",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 45,
+    "fields": {
+      "title": "Silent Horizon",
+      "author": "Claire Rivers",
+      "published_year": 1997
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 46,
+    "fields": {
+      "title": "Burnt Shadows",
+      "author": "Owen Drake",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 47,
+    "fields": {
+      "title": "The Glass Sparrow",
+      "author": "Sophie Lane",
+      "published_year": 2000
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 48,
+    "fields": {
+      "title": "Twilight Echoes",
+      "author": "Max Harper",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+      "title": "Whispering Pines",
+      "author": "Lila Mason",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+      "title": "The Iron Veil",
+      "author": "Jack Wilder",
+      "published_year": 2014
+    }
+  }
+]
